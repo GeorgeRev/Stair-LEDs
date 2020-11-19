@@ -1,5 +1,5 @@
 # Stair-LEDs
-An individually addressable LED strip to light up your stairs
+An individually addressable LED strip to light up your stairs with the help of an Arduino
 
 
 https://www.arduino.cc/en/Tutorial/BuiltInExamples/Button
