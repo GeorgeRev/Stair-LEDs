@@ -8,7 +8,7 @@ I also created a case.
 The Arduino 3d model is downloaded through Clara.io
 https://clara.io/view/f74062c7-85e0-4175-92ba-c0b7df151824
 
-Sensor is a more sensible choice for a staircase so I used PIR sensors.
+Sensors are a more sensible choice for a staircase so I used PIR sensors.
 They are connected to 5V and Ground and their data pin can be connected directly to the appropriate button pin.
 Sensor case is included too.
 
