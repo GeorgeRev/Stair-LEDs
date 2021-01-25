@@ -1,5 +1,5 @@
 # Stair-LEDs
-An individually addressable LED strip to light up your stairs with the help of an Arduino.
+A really simple program for an individually addressable LED strip to light up your stairs with the help of an Arduino.
 
 I have replaced the Arduino Uno R3 for an Arduino Nano.
 The pins work fine, without any change to the code.
